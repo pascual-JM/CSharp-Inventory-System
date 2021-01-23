@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\InventorySystem\InventorySystem\bin\Debug\dbInventory.mdf
+C:\Users\user\source\repos\InventorySystem\InventorySystem\bin\Debug\dbInventory_log.ldf
+C:\Users\user\source\repos\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\user\source\repos\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\user\source\repos\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\user\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.DashBoardContent.resources
+C:\Users\user\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.FormControl.resources
+C:\Users\user\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Login.resources
+C:\Users\user\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+C:\Users\user\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.ViewUsersContent.resources
+C:\Users\user\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.cache
+C:\Users\user\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\user\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\user\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csprojAssemblyReference.cache
+C:\Users\user\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.AddUserContent.resources
